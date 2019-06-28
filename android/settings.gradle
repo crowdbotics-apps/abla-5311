@@ -1,0 +1,3 @@
+rootProject.name = 'abla_5311'
+
+include ':app'
